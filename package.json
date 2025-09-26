@@ -1,0 +1,27 @@
+{
+  "name": "node_js_with_xampp_database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node my_api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purushottamji/node_js_with_xampp_database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Purushottamji/node_js_with_xampp_database/issues"
+  },
+  "homepage": "https://github.com/Purushottamji/node_js_with_xampp_database#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "mysql2": "^3.15.1"
+  }
+}
